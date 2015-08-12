@@ -1,0 +1,33 @@
+body{
+        background-color: green;
+        background-image: url("http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg");
+        background-repeat:no-repeat;
+        background-size: 100%;
+        background-attachment:fixed;
+        color: white;
+        text-align: center;
+
+    }
+
+#d1 {
+    text-align: center;
+    background-color: blue;
+    background-image: url("http://bestpics.in/wp-content/uploads/2014/07/the_getty_images_blog_use_getty_images_.jpg");
+    background-repeat:no-repeat;
+    background-size: 80%;
+    background-attachment: fixed;
+    background-position: center;
+    width: 500px;height: 500px;padding: 5%;
+    color: #fff;
+    margin-left: 20%;
+
+    }
+
+p {
+  background-color: #f00;
+  text-align: justify;
+  }
+header{
+     color: white;
+     text-align: center;
+      }
