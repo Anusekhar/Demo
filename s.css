@@ -5,13 +5,13 @@ body{
         background-size: 100%;
         background-attachment:fixed;
         color: white;
-        text-align: center;
+        text-align: justify;
         font-size: 150%;
 
     }
 
 #d1 {
-    text-align: center;
+    text-align: justify;
     background-color: blue;
     background-image: url("http://bestpics.in/wp-content/uploads/2014/07/the_getty_images_blog_use_getty_images_.jpg");
     background-repeat:no-repeat;
