@@ -1,0 +1,26 @@
+#nodec {
+  text-decoration: none;
+}
+#underlined {
+  text-decoration: underline red;
+  text-decoration-line: underline;
+}
+#stroked {
+  text-decoration: line-through;
+  text-decoration-line: line-through;
+}
+#overline {
+  text-decoration: overline green;
+  text-decoration-line: overline;
+}
+#allign {
+  text-align: center;
+}
+#indent {
+  text-indent: 80px;
+}
+#transform {
+  text-transform: uppercase;
+  text-indent: 40px;
+  /*text-decoration-color: blue;*/
+}
