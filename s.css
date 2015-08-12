@@ -6,6 +6,7 @@ body{
         background-attachment:fixed;
         color: white;
         text-align: center;
+        font-size: 150%;
 
     }
 
@@ -15,11 +16,12 @@ body{
     background-image: url("http://bestpics.in/wp-content/uploads/2014/07/the_getty_images_blog_use_getty_images_.jpg");
     background-repeat:no-repeat;
     background-size: 80%;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     width: 500px;height: 500px;padding: 5%;
     color: #fff;
     margin-left: 20%;
+    font-size: 100%;
 
     }
 
@@ -31,3 +33,9 @@ header{
      color: white;
      text-align: center;
       }
+#d2{
+  text-align: justify;
+  margin: 20%;
+  font-size: 100%;
+  background-image: linear-gradient(grey, yellow);
+}
