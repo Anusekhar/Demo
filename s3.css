@@ -1,0 +1,31 @@
+html{
+  font-size: 10px;
+}
+#d1{
+  font-size: 1rem;
+  background-image: url(http://www.quicksprout.com/images/foggygoldengatebridge.jpg);
+  background-size: 5rem 5rem;
+  background-repeat: repeat-x;
+  width: 10rem;
+  height: 5rem;
+}
+#d2{
+  font-size: 2rem;
+  background-image: url(http://www.quicksprout.com/images/foggygoldengatebridge.jpg);
+  background-size: 10rem 10rem;
+  background-repeat: repeat-y;
+  width: 10rem;
+  height: 20rem;
+}
+#d3{
+  font-size: 3rem;
+  background-image: url(http://www.quicksprout.com/images/foggygoldengatebridge.jpg);
+  background-size: 15rem 15rem;
+  background-repeat: repeat;
+  width: 30rem;
+  height: 30rem;
+}
+body{
+  background-color: grey;
+
+}

@@ -1,0 +1,60 @@
+#c1, #c2, #c3, #c4, #c5, #c5, #c6, #c7, #c8, #c9 {
+  border: 2px;
+  margin: 2px;
+  padding: 2px;
+  width: 100px;
+  height: 100px;
+  color: white;
+  text-align: center ;
+}
+#c1 {
+  float: left;
+  background-color: red;
+}
+#c2{
+  float: left;
+  background-color: blue;
+}
+#c3{
+  float: left;
+  background-color: green;
+}
+#c4{
+  float: right;
+  background-color: yellow;
+}
+#c5{
+  float: right;
+  background-color: black;
+}
+#c6{
+  float: right;
+  background-color: grey;
+}
+#c7{
+  float: right;
+  background-color: orange;
+}
+#c8{
+  float: left;
+  background-color: cyan;
+}
+#c9 {
+  float: right;
+  background-color: brown;
+}
+#parent1{
+  float: right;
+  height: 150px;
+
+ }
+#parent2 {
+  float: left;
+  height: 150px;
+
+}
+#parent3 {
+  float: none;
+  height: :150px;
+
+}

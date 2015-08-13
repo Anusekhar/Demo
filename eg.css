@@ -1,0 +1,60 @@
+body {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#l {
+  float: left;
+  max-width: 50%;
+  min-height: 1000px;
+  width: auto;
+  height: auto;
+  background-image: url(http://www.planwallpaper.com/static/images/518151-backgrounds_W3qVPu2.jpg);
+  background-attachment: scroll;
+  background-size: auto;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: serif;
+  text-align: justify;
+  color: orange;
+  }
+#center {
+  float: right;
+  text-align: center;
+  min-width: 50%;
+  min-height: 100%;
+  padding left: 50%;
+  padding-top: 25%;
+}
+#img {
+  float: left;
+  width: 40%;
+  height: 40%;
+}
+a:visited {
+  color:yellow;
+}
+a:link {
+  color: blue;
+}
+a:hover {
+  color:red;
+}
+
+a:active {
+  color: green;
+}
+
+p.small {
+  line-height: 50%;
+}
+p.large {
+  line-height: 150%;
+}
+p.morespace {
+  word-spacing: 50px;
+}
+p.lessspace {
+  word-spacing: -5px;
+}
